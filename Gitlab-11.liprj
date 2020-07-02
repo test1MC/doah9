@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LingoProject TargetLanguage="ar" xml:lang="ar" SourceLanguage="en-us" FileFormatVersion="6" CreatedInVersion="11" flattenSnippets="false" SelectedTarget="" SourceControlBound="true" SourceControlProviderType="Git" ProjectGuid="974466a3-b446-4e2b-bd74-c89028977131">
+    <ProjectFile Source="Target/Lingo-Gitlab6.flprj" Target="Target/Lingo-Gitlab6.flprj" />
+</LingoProject>
